@@ -1,0 +1,92 @@
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+} 
+
+
+footer {
+    padding: 25px;
+    
+}
+
+.name {
+    position: relative;
+    font-family: 'Indie Flower', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: left;
+    color:brown;
+    padding: 10px;
+    margin-left: 100px;
+   
+}
+
+.menu-table {
+    border: 1px solid rgb(201, 115, 10);
+    color: rgb(10, 1, 1);
+    margin-top: 10px;
+    width: 600px;
+    height: 200px;
+    background-color: #8a153c;
+}
+
+.menu-heading {
+    text-align: left;
+    font-family: 'Hubali', cursive;
+    font-size: 1.5rem;
+    color: rgb(19, 18, 18);
+}
+    
+dt {
+    font-size: 1.5rem;
+    margin-left: 10%;
+    font-family: 'Hubali', cursive;
+}
+
+dd {
+    font-size: 1.5rem;
+    margin-left: 15%;
+    font-family: 'Hubali', cursive;
+}
+   
+.clear {
+    color: bisque;
+}
+
+p {
+    text-align: center;
+    font-family: 'Hubali', cursive;
+    font-size: 1.5rem;
+    color: bisque;
+    float: right;
+    padding: 20px
+}
+
+.order-table {
+    border: 1px solid rgb(22, 22, 21);
+    color: rgb(20, 19, 19);
+    font-family: 'Hubali', cursive;
+    margin-top: 10px;
+    width: 300px;
+    background-color: #fe0195;
+    display: none;
+
+}
+
+#btnn {
+    display: none;
+}
+
+#delivery {
+    display: none;
+}
+
+th, td {
+    border: 1px solid yellow;
+}
+
+
