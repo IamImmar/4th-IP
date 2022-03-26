@@ -66,7 +66,7 @@ p {
     border: 1px solid rgb(22, 22, 21);
     color: rgb(20, 19, 19);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+    font-family; 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
     margin-top: 10px;
     width: 300px;
     background-color: #e95a8c;
