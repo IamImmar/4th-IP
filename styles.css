@@ -3,13 +3,10 @@ h1{
     text-align: center;
     font-size: 60px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 } 
 
-
 footer {
-    padding: 25px;
-    
+    padding: 25px;   
 }
 
 .name {
@@ -21,8 +18,7 @@ footer {
     text-align: left;
     color:brown;
     padding: 10px;
-    margin-left: 100px;
-   
+    margin-left: 100px;   
 }
 
 .menu-table {
@@ -74,7 +70,6 @@ p {
     width: 300px;
     background-color: #fe0195;
     display: none;
-
 }
 
 #btnn {
