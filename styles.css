@@ -11,28 +11,28 @@ footer {
 
 .name {
     position: relative;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
     text-align: left;
-    color:brown;
+    color:rgb(19, 16, 16);
     padding: 10px;
     margin-left: 100px;   
 }
 
 .menu-table {
-    border: 1px solid rgb(201, 115, 10);
+    border: 1px solid rgb(240, 224, 229);
     color: rgb(10, 1, 1);
     margin-top: 10px;
     width: 600px;
     height: 200px;
-    background-color: #8a153c;
+    background-color: #e95a8c;
 }
 
 .menu-heading {
     text-align: left;
-    font-family: 'Hubali', cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.5rem;
     color: rgb(19, 18, 18);
 }
@@ -65,10 +65,11 @@ p {
 .order-table {
     border: 1px solid rgb(22, 22, 21);
     color: rgb(20, 19, 19);
-    font-family: 'Hubali', cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
     margin-top: 10px;
     width: 300px;
-    background-color: #fe0195;
+    background-color: #e95a8c;
     display: none;
 }
 
@@ -81,7 +82,7 @@ p {
 }
 
 th, td {
-    border: 1px solid yellow;
+    border: 1px solid rgb(233, 120, 154);
 }
 
 
