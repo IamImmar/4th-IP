@@ -50,8 +50,8 @@ d.querySelector('#btn').addEventListener('click',pizzaPrices)
         let totalPrice = sizePrice + crustPrice + toppingsPrice;
         console.log(totalPrice);
 
-        let sz = document.querySelector('#sz'); 
-        sz.append(choosenPizzaSize);
+        let sz = document.querySelector('#sz');
+        sz.append(choosenPizzaSize) ;
 
         let cr = document.querySelector('#cr'); 
         cr.append(choosenPizzaCrust)
